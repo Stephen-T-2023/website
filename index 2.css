@@ -12,8 +12,8 @@ body{
 }
 
 nav{
-    background-color: blue;
-    color: antiquewhite;
+    background-color: white;
+    color: black;
     display: flex;
     align-items: center;
     padding: 10px 15px;
@@ -40,6 +40,8 @@ main{
 
     display: flex;
     align-items: center;
+
+    background-color: darkgray;
 }
 
 .content{
