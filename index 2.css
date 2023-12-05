@@ -8,11 +8,10 @@ body{
     min-height: 100svh;
     display: flex;
     flex-direction: column;
-    height: 125vh;
 }
 
 nav{
-    background-color: white;
+    background-color: rgba(189, 189, 189, 0.726);
     color: black;
     display: flex;
     align-items: center;
@@ -41,7 +40,12 @@ main{
     display: flex;
     align-items: center;
 
-    background-color: darkgray;
+    background-color: rgb(94, 94, 94);
+}
+
+div{
+    background-color: rgb(46, 43, 43);
+    color: white;
 }
 
 .content{
